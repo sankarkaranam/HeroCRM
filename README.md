@@ -1,5 +1,4 @@
 # HeroCRM
-Got it ✅ — you want a **completely restructured master document** that includes:
 
 * SaaS-level (your company) **Admin Dashboard & Management System**
 * **Multi-tenant dealer model** with license/subscription control
